@@ -1,0 +1,6 @@
+C:\Users\kerle\source\repos\Auto-RTM\obj\Debug\Auto-RTM.csproj.CoreCompileInputs.cache
+C:\Users\kerle\source\repos\Auto-RTM\bin\Debug\Roblox-AutoRTM.exe.config
+C:\Users\kerle\source\repos\Auto-RTM\bin\Debug\Roblox-AutoRTM.exe
+C:\Users\kerle\source\repos\Auto-RTM\bin\Debug\Roblox-AutoRTM.pdb
+C:\Users\kerle\source\repos\Auto-RTM\obj\Debug\Roblox-AutoRTM.exe
+C:\Users\kerle\source\repos\Auto-RTM\obj\Debug\Roblox-AutoRTM.pdb
